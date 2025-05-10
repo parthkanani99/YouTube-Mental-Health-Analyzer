@@ -1,0 +1,8 @@
+openai
+youtube-transcript-api
+pytube
+moviepy
+whisper
+ffmpeg-python
+gspread
+google-auth
